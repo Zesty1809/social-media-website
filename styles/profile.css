@@ -1,0 +1,78 @@
+* {
+    margin: 0;
+}
+
+body {
+    font-family: Tahoma;
+    background-color: #d0d8e4;
+}
+
+#blue-bar {
+    height: 60px;
+    background-color: rgb(59, 89, 152);
+    color: #d9dfeb;
+    /* padding: 4px; */
+}
+
+#mybook {
+    width: 800px;
+    margin: auto;
+    font-size: 30px;
+}
+
+#mybook-text {
+    line-height: 60px;
+}
+
+#search_box {
+    width: 400px;
+    height: 20px;
+    border-radius: 5px;
+    border: none;
+    padding: 8px 14px;
+    margin-top: 12px;
+    font-size: 14px;
+    vertical-align: top;
+    background-image: url(../social-images/search.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+#profile-picture {
+    width: 63px;
+    float: right;
+}
+
+#cover-area {
+    width: 800px;
+    margin: auto;
+    background-color: black;
+    min-height: 400px;
+}
+
+#cover-container {
+    background-color: white;
+    text-align: center;
+    color: #405d9b;
+}
+
+#mountain-img {
+    width: 100%;
+}
+
+#profile-picture-round {
+    width: 150px;
+    margin-top: -250px;
+    border-radius: 50%;
+    border: solid 2px white;
+}
+
+.menu-buttons {
+    width: 100px;
+    display: inline-block;
+    margin: 2px;
+}
+
+#zesty-kun {
+    font-size: 20px;
+}
