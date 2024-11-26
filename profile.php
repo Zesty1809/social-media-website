@@ -31,6 +31,26 @@
             <div class="menu-buttons">Photos</div> 
             <div class="menu-buttons">Settings</div>
         </div>
+
+    <!-- below cover area-->
+        <div id="flexbox">
+            <!-- friends area-->
+            <div id="box1">
+                <div id="friends_bar">
+                    Friends <br>
+
+                    <div id="friends">
+                        <img src="social-images/user1.jpg" alt="user1" id="friends_img">
+                        <br>
+                        First User
+                    </div>
+                </div>
+            </div>
+
+            <!-- posts area-->
+            <div id="box2"></div>
+        </div>
+
     </div>
 </body>
 </html>

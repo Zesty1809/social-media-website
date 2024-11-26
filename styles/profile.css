@@ -46,7 +46,6 @@ body {
 #cover-area {
     width: 800px;
     margin: auto;
-    background-color: black;
     min-height: 400px;
 }
 
@@ -73,6 +72,27 @@ body {
     margin: 2px;
 }
 
+/* TODO */
 #zesty-kun {
     font-size: 20px;
+}
+
+#flexbox {
+    display: flex;
+}
+
+#box1 {
+    min-height: 400px;
+    flex: 1;
+}
+
+#box2 {
+    min-height: 400px;
+    flex: 2.5;
+}
+
+#friends_img {
+    width: 75px;
+    float: left;
+    margin: 8px;
 }
